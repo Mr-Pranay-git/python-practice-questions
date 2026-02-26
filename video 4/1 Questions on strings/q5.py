@@ -8,4 +8,4 @@ for i in range(len(a),-1,-1):
 if b==a:
     print('the entered string is pallindrome')
 else:
-    print('not a palandrome')
+    print('not a pallindrome')
