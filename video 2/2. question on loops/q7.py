@@ -11,4 +11,4 @@ for i in range (1,n):
 if n == sum:
     print('yes, is a perfect number')
 else:
-    print("the  number is not a perfrct")
+    print("it is not a perfect number")
